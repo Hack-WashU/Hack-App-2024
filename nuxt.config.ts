@@ -7,20 +7,12 @@ export default defineNuxtConfig({
     },
   },
   modules: [
-    "@nuxtjs/supabase",
     "@nuxt/content",
     "@vueuse/nuxt",
     "@nuxtjs/color-mode",
     "@nuxtjs/tailwindcss",
   ],
   css: ["@/assets/main.css"],
-  supabase: {
-    redirectOptions: {
-      login: "/",
-      callback: "/confirm",
-      exclude: ["/", "/faq", "/spaces", "/schedule", "/resources", "/jobs"],
-    },
-  },
   colorMode: {
     preference: "dracula",
     dataValue: "theme",

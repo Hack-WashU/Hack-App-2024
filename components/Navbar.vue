@@ -1,8 +1,5 @@
 <script setup lang="ts">
-const user = useSupabaseUser();
 // const supabase = useSupabaseClient();
-const role = ref("");
-import { PhTwitchLogo } from "@phosphor-icons/vue";
 import { PhInstagramLogo } from "@phosphor-icons/vue";
 
 // onMounted(async () => {
@@ -71,13 +68,6 @@ import { PhInstagramLogo } from "@phosphor-icons/vue";
         v-if="role !== 'admin'"
         href="https://instagram.com/hackwashu"
         ><ph-instagram-logo :size="32"
-      /></a>
-      <a
-        target="_blank"
-        class="mr-2"
-        v-if="role !== 'admin'"
-        href="https://twitch.tv/hackwashu"
-        ><ph-twitch-logo :size="32"
       /></a>
       <a class="btn btn-primary" v-if="role === 'admin'" href="/admin"
         >Admin Page</a
