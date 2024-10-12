@@ -8,17 +8,17 @@ import { serve } from 'https://deno.land/std@0.177.0/http/server.ts'
 import { corsHeaders } from '../_shared/cors.ts'
 
 serve(async (req: Request) => {
-  console.log(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY);
-  console.log(process.env.NEXT_PUBLIC_SUPABASE_URL);
+  console.log(process.env.SUPABASE_KEY);
+  console.log(process.env.SUPABASE_URL);
   try {
     
     const supabaseClient = createClient(
       // Supabase API URL - env var exported by default.
-      //Deno.env.get('SUPABASE_URL') ?? '',
-      process.env.NEXT_PUBLIC_SUPABASE_URL ?? '',
+      Deno.env.get('NEXT_PUBLIC_SUPABASE_URL') ?? '',
+      // process.env.NEXT_PUBLIC_SUPABASE_URL ?? '',
       // Supabase API ANON KEY - env var exported by default.
-      //Deno.env.get('SUPABASE_KEY') ?? '',
-      process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ?? '',
+      Deno.env.get('NEXT_PUBLIC_SUPABASE_ANON_KEY') ?? '',
+      //process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ?? '',
       // Create client with Auth context of the user that called the function.
       // This way your row-level-security (RLS) policies are applied.
       { global: { headers: { Authorization: req.headers.get('Authorization')! } } }
