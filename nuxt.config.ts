@@ -1,9 +1,9 @@
 export default defineNuxtConfig({
   runtimeConfig: {
     public: {
-      siteUrl: process.env.NUXT_ENV_VERCEL_URL
-        ? `https://app.hackwashu.com`
-        : "https://localhost:3000",
+      siteUrl: process.env.VERCEL_ENV === "production"
+        ? "https://app.hackwashu.com"
+        : "http://localhost:3000",  // Use http for local dev
     },
   },
   modules: [
