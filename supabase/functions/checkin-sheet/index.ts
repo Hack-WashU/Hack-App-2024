@@ -8,8 +8,9 @@ import { serve } from 'https://deno.land/std@0.177.0/http/server.ts'
 import { corsHeaders } from '../_shared/cors.ts'
 
 serve(async (req: Request) => {
+  console.log(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY);
   try {
-    alert(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY);
+    
     const supabaseClient = createClient(
       // Supabase API URL - env var exported by default.
       //Deno.env.get('SUPABASE_URL') ?? '',
