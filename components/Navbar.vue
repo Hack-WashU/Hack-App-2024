@@ -1,20 +1,20 @@
 <script setup lang="ts">
 const user = useSupabaseUser();
-const supabase = useSupabaseClient();
+// const supabase = useSupabaseClient();
 const role = ref("");
 import { PhTwitchLogo } from "@phosphor-icons/vue";
 import { PhInstagramLogo } from "@phosphor-icons/vue";
 
-onMounted(async () => {
-  if (user.value) {
-    let { data } = await supabase
-      .from("profiles")
-      .select(`role`)
-      .eq("id", user.value.id)
-      .single();
-    if (data) role.value = data.role;
-  }
-});
+// onMounted(async () => {
+//   if (user.value) {
+//     let { data } = await supabase
+//       .from("profiles")
+//       .select(`role`)
+//       .eq("id", user.value.id)
+//       .single();
+//     if (data) role.value = data.role;
+//   }
+// });
 </script>
 <template>
   <div class="navbar bg-base-300">

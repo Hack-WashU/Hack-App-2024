@@ -1,5 +1,5 @@
 <script setup>
-const supabase = useSupabaseClient()
+// const supabase = useSupabaseClient()
 
 const loading = ref(false)
 const email = ref('')
