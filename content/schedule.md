@@ -5,7 +5,7 @@
 | Check in opens | Lopata Gallery | Friday 5:00 PM | Form a line from Lopata entrance to Crow Hall |
 | Team Matching | Lopata Courtyard | Friday 6:00-8:00 PM | Drop by Lopata Courtyard to meet other hackers and make teams! |
 | \[Workshop\] Doing as Little Work as Possible | Lopata 101 | Friday 7:00 PM | Learn how to use AI and Online Resources to minimize work |
-| \[Workshop\] Introduction to Cybersecurity | Lopata 101 | Friday 8:00 PM | Fundamental so Cybersecurity workshop |
+| \[Workshop\] Introduction to Cybersecurity | Lopata 101 | Friday 8:00 PM | Fundamentals of Cybersecurity workshop |
 | Check in closes | Lopata Gallery | Friday 9:00 PM | Form a line from Lopata entrance to Crow Hall |
 | \[Workshop\] Fundamentals of Web Dev | Lopata 101 | Friday 9:00 PM | Learn the fundamental building blocks of most websites |
 

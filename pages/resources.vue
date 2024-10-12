@@ -30,8 +30,6 @@ let { body } = await queryContent().where({ title: "Resources" }).findOne();
           </div>
         </div>
       </div>
-      <h2 class="text-center">To be completed</h2>
-      <div class="mb-40"></div>
     </div>
   </div>
 </template>
