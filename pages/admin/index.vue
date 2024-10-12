@@ -1,15 +1,15 @@
 <script setup lang="ts">
 
-// const supabase = useSupabaseClient()
-// const user = useSupabaseUser()
+const supabase = useSupabaseClient()
+const user = useSupabaseUser()
 
-// let {data} = await supabase.from('profiles').select(`role`).eq('id', user.value.id).single()
+let {data} = await supabase.from('profiles').select(`role`).eq('id', user.value.id).single()
 
-// if (data) {
-//     if (data.role !== 'admin') {
-//         await navigateTo('/schedule')
-//     }
-// }
+if (data) {
+    if (data.role !== 'admin') {
+        await navigateTo('/schedule')
+    }
+}
 </script>
 <template>
   <div class="flex justify-center">
