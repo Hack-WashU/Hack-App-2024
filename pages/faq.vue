@@ -11,7 +11,7 @@ let { body } = await queryContent().where({ title: "Faq" }).findOne();
       <p class="text-center">
         If your question is missing, you can message us on
         <a href="https://instagram.com/hackwashu">Instagram</a> or send us an
-        email at organizer@hackwashu.com .
+        email at hackwashu@gmail.com .
       </p>
       <div v-for="section in body">
         <h3 class="text-center">{{ section.Section }}</h3>

@@ -21,15 +21,11 @@
         "Questions": [
             {
                 "Question": "I didn't register in time. Can I still participate?",
-                "Answer": "If you’re a WashU student, then YES! We’ll have a walk-in option for students who didn’t submit their applications in time (with the difference being that you may not receive swag). Please fill out the application as you normally would and then we’ll be in touch with more info in a few weeks."
+                "Answer": "If you’re a WashU student, then YES! We’ll have a walk-in option for students who didn’t submit their applications in time (with the difference being that you may not receive swag). We'll have a form for you to fill out during check-in."
             },
             {
                 "Question": "How are acceptances being handled?",
                 "Answer": "Acceptances are primarily being handled by prioritizing hackers who can attend in-person, and that we can support in-line with university policy. We guaruntee acceptance for all WashU students"
-            },
-            {
-                "Question": "How do late registrations work?",
-                "Answer": "We’ll have a walk-in option for students who didn’t submit their applications in time (with the difference being that you may not receive swag). Please fill out the application as you normally would and then we’ll be in touch with more info in a few weeks."
             }
         ]
     },
@@ -38,15 +34,11 @@
         "Questions": [
             {
                 "Question": "When and where is Hack WashU?",
-                "Answer": "Hack WashU will take place at Washington University in St. Louis from October 14th to the 15th. Please plan on attending in-person! The event will primarily take place in Lopata/Urbauer Halls."
+                "Answer": "Hack WashU will take place at Washington University in St. Louis from October 18th to the 20th. Please plan on attending in-person! The event will primarily take place in Lopata/Urbauer Halls."
             },
             {
                 "Question": "When does Hack WashU start?",
-                "Answer": "Event check-in will begin at 8am on 10/14, with the opening ceremony taking place at 9am. This is required for all hackers. Yes it’s early, but we’ll be going over extremely important logistical information for the entire weekend. Since this is our first time holding a completely in-person event, please bear with us if there are hiccups with checking in hackers!"
-            },
-            {
-                "Question": "When is early check-in?",
-                "Answer": "We will be hosting early check-in on the evening of Friday 10/13, as well as running a team-matching event! This event is for WashU students only. Keep an eye out for more information about this!"
+                "Answer": "Event check-in will begin at 5pm on 10/18, with the opening ceremony taking place at 9am. This is required for all hackers. Yes it’s early, but we’ll be going over extremely important logistical information for the entire weekend. Since this is our first time holding a completely in-person event, please bear with us if there are hiccups with checking in hackers!"
             }
         ]
     },
@@ -72,16 +64,7 @@
         "Questions":[
             {
                 "Question": "Who are this years' sponsors?",
-                "Answer": "Our sponsors this year are Mastercard, RGA, Spectrum, Anheuser-Busch, and Github (via MLH). Our partners include Major League Hacking, Student Technology Services/Tech Den, and the McKelvey School of Engineering"
-            }
-        ]
-    },
-    {
-        "Section": "Swag",
-        "Questions": [
-            {
-                "Question": "How can I make sure that I receive swag?",
-                "Answer": "As long as you registered before the deadline (9/25), we’ll have enough swag for you! You’ll receive it when you check in."
+                "Answer": "Our sponsors this year are Anheuser-Busch, Mastercard, RGA, and WashU Digital Intelligence & Innovation (DI2) Accelerator. Our partners include Student Technology Services/Tech Den and the McKelvey School of Engineering"
             }
         ]
     },

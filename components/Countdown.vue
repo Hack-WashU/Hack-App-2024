@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<!-- <script setup lang="ts">
 import { ref, computed, onBeforeUnmount } from "vue";
 import dayjs from "dayjs";
 import utc from "dayjs/plugin/utc";
@@ -41,4 +41,4 @@ const afterHackathonStart = computed<boolean>(() => {
   <div v-if="afterHackathonStart && timeLeft > 0" class="text-center p-4">
     <div class="text-xl font-bold">Time left: {{ formattedTime }}</div>
   </div>
-</template>
+</template> -->

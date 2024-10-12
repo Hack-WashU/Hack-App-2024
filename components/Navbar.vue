@@ -1,17 +1,6 @@
 <script setup lang="ts">
-// const supabase = useSupabaseClient();
 import { PhInstagramLogo } from "@phosphor-icons/vue";
 
-// onMounted(async () => {
-//   if (user.value) {
-//     let { data } = await supabase
-//       .from("profiles")
-//       .select(`role`)
-//       .eq("id", user.value.id)
-//       .single();
-//     if (data) role.value = data.role;
-//   }
-// });
 </script>
 <template>
   <div class="navbar bg-base-300">
@@ -43,9 +32,6 @@ import { PhInstagramLogo } from "@phosphor-icons/vue";
           <li><a href="/jobs">Jobs</a></li>
           <li><a href="/faq">FAQ</a></li>
 
-          <li v-if="role === 'admin'">
-            <a class="btn btn-primary" href="/admin">Admin Page</a>
-          </li>
         </ul>
       </div>
       <a class="btn btn-ghost normal-case text-xl" href="/account"
@@ -65,13 +51,9 @@ import { PhInstagramLogo } from "@phosphor-icons/vue";
       <a
         target="_blank"
         class="mr-2"
-        v-if="role !== 'admin'"
         href="https://instagram.com/hackwashu"
         ><ph-instagram-logo :size="32"
       /></a>
-      <a class="btn btn-primary" v-if="role === 'admin'" href="/admin"
-        >Admin Page</a
-      >
     </div>
   </div>
 </template>
