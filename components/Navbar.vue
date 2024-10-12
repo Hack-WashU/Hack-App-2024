@@ -40,7 +40,6 @@ onMounted(async () => {
           tabindex="0"
           class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
         >
-          <li><a href="/account">Account</a></li>
           <li><a href="/spaces">Space Information</a></li>
           <li><a href="/schedule">Schedule</a></li>
           <li><a href="/resources">Project Resources</a></li>
@@ -58,7 +57,6 @@ onMounted(async () => {
     </div>
     <div class="navbar-center hidden lg:flex">
       <ul class="menu menu-horizontal px-1">
-        <li><a href="/account">Account</a></li>
         <li><a href="/spaces">Space Information</a></li>
         <li><a href="/schedule">Schedule</a></li>
         <li><a href="/resources">Project Resources</a></li>

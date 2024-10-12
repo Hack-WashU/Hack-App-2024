@@ -1,19 +1,7 @@
-<script setup lang="ts">
-const user = useSupabaseUser();
-
-if (user.value) {
-  await navigateTo("/account");
+<script>
+export default {
+  mounted() {
+    this.$router.push('/schedule');
+  }
 }
-console.log(useRuntimeConfig().public.siteUrl);
 </script>
-<template>
-  <head>
-    <title>Hack WashU - Check-In</title>
-  </head>
-  <div class="flex justify-center">
-    <div class="prose prose-lg mt-10 text-center">
-      <h1>Hack WashU Check-In 💻</h1>
-      <Auth />
-    </div>
-  </div>
-</template>
