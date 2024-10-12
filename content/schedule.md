@@ -33,4 +33,4 @@
 | Round 1 Judging Ends   | Everywhere   | Sunday 2:30 PM                             |                                                                                                                                             |
 | Round 2 Judging Begins | Lopata 101 | Sunday 3:00 PM                             | The top 5 teams of each division will give _brief_ project demos!                                                                           |
 | Round 2 Judging Ends   | Lopata 101 | Sunday ~4:30 PM                            |                                                                                                                                             |
-| Closing Ceremony!      | Lopata 101 | 5pm | If you aren't present to receive a prize, you'll have 24 hours to claim it via email.                                                       |
+| Closing Ceremony!      | Lopata 101 | 5:00pm | If you aren't present to receive a prize, you'll have 24 hours to claim it via email.                                                       |
