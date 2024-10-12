@@ -22,7 +22,7 @@
 | \[Workshop\] STS 3D Scanning Workshop               | Lopata Gallery   | Saturday 3:00 PM                             | STS and Tech Den offer free 3D printing to students all year long! |
 | Sponsor Gallery Closes                   | Lopata Gallery   | Saturday ~5:00 PM                             |  |
 | Dinner 🍕                               | Lopata Gallery   | Saturday ~5:00 PM                    | Pizza time! |
-| Late Night Snack                             | Lopata Gallery   | Saturday ~10:00 PM                    | Hackers deserve a little treat |
+| Late Night Snack                             | Lopata Gallery   | Saturday ~11:00 PM                    | Hackers deserve a little treat |
 
 ## Sunday
 
