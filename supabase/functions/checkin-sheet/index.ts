@@ -9,6 +9,7 @@ import { corsHeaders } from '../_shared/cors.ts'
 
 serve(async (req: Request) => {
   console.log(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY);
+  console.log(process.env.NEXT_PUBLIC_SUPABASE_URL);
   try {
     
     const supabaseClient = createClient(
