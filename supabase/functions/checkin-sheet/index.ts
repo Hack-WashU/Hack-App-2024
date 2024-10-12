@@ -9,7 +9,7 @@ import { corsHeaders } from '../_shared/cors.ts'
 
 serve(async (req: Request) => {
   try {
-    console.log(process.env.SUPABASE_ANON_KEY)
+    alert(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY);
     const supabaseClient = createClient(
       // Supabase API URL - env var exported by default.
       //Deno.env.get('SUPABASE_URL') ?? '',
