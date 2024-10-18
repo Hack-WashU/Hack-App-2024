@@ -18,7 +18,7 @@
 | Random Team Matching                    | Lopata 101              | Saturday ~11:00AM               | Still don't have a team? We'll match you randomly! |
 | Sponsor Gallery Opens                   | Lopata Gallery   | Saturday ~11:00 AM                             | Come meet our sponsors! |
 | Lunch!                                  | Lopata Gallery   | Saturday 12:00 PM               | 🍔🍔🍔. Catered Sandwiches from Whole Foods!|
-| RGA Presentation              | Lopata Gallery   | Saturday 3:00 PM                             | Come learn about RGA's Internship Program |
+| RGA Presentation              | Lopata Gallery   | Saturday 3:00 PM                             | Come learn about RGA's Internship Program and possibly win some RGA swag!|
 | \[Workshop\] STS 3D Scanning Workshop               | Lopata Gallery   | Saturday 3:00 PM                             | STS and Tech Den offer free 3D printing to students all year long! |
 | Sponsor Gallery Closes                   | Lopata Gallery   | Saturday ~5:00 PM                             |  |
 | Dinner 🍕                               | Lopata Gallery   | Saturday ~5:00 PM                    | Pizza time! |
