@@ -36,6 +36,7 @@
 | Just Dance                         | Lopata 101   | Sunday 6:00 AM                    | Get Your Boogie On |
 | Karaoke                         | Lopata 101   | Sunday 8:00 AM                    | Morning Karoake to wake you up |
 | Trivia 2 Electric Bogaloo                         | Lopata 101   | Sunday 10:00 AM                    | |
+| Hack WashU Alum Q&A                         | Lopata 101   | Sunday 10:00 AM                    | Come talk to a Hack WashU alum who is now a full time software engineer at Microsoft|
 | HACKING ENDS!          | Everywhere   | Sunday 1:00 PM                             | Hard deadline! No extensions!                                                                                                               |
 | Round 1 Judging Begins | Everywhere   | Sunday 1:00 PM                             |                                                                                                                                             |
 | Round 1 Judging Ends   | Everywhere   | Sunday 2:00 PM                             |                                                                                                                                             |
