@@ -21,7 +21,7 @@
 | \[Workshop\] STS 3D Scanning Workshop               | Lopata Gallery   | Saturday 3:00 PM                             | STS and Tech Den offer free 3D printing to students all year long! |
 | Sponsor Gallery Closes                   | Lopata Gallery   | Saturday ~5:00 PM                             |  |
 | Dinner 🍕                               | Lopata Gallery   | Saturday ~5:00 PM                    | Pizza time! |
-| \[Workshop\] How to Host Your Site | Lopata 101 | Saterday 7:00 PM | Learn how to host your own site |
+| \[Workshop\] How to Host Your Site | Lopata 101 | Saturday 7:00 PM | Learn how to host your own site |
 | MS Paint Competition                              | Lopata 101   | Saturday ~10:00 PM                    |  |
 | Mario Kart Tournament                              | Lopata 101   | Saturday ~11:30 PM                    |  |
 
@@ -34,7 +34,7 @@
 | Yap Session/Rock Paper Scissors Tournament                            | Lopata 101   | Saturday 4:00 AM                    | |
 | Trivia                         | Lopata 101   | Sunday 5:00 AM                    |  |
 | Just Dance                         | Lopata 101   | Sunday 6:00 AM                    | Get Your Boogie On |
-| Karoake                         | Lopata 101   | Sunday 8:00 AM                    | Morning Karoake to wake you up |
+| Karaoke                         | Lopata 101   | Sunday 8:00 AM                    | Morning Karoake to wake you up |
 | Trivia 2 Electric Bogaloo                         | Lopata 101   | Sunday 10:00 AM                    | |
 | HACKING ENDS!          | Everywhere   | Sunday 1:00 PM                             | Hard deadline! No extensions!                                                                                                               |
 | Round 1 Judging Begins | Everywhere   | Sunday 1:00 PM                             |                                                                                                                                             |
