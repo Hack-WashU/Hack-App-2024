@@ -14,14 +14,53 @@
         ]
     },
     {
-        "name": "Urbauer Labs",
+        "name": "Lopata 103",
         "info": [
             "Available 24/7!",
+            "Food allowed 🍕"
+        ]
+    },
+    {
+        "name": "Lopata 201",
+        "info": [
+            "Available 24/7!",
+            "Food allowed 🍕"
+        ]
+    },
+    {
+        "name": "Lopata 202",
+        "info": [
+            "Available 24/7!",
+            "Food allowed 🍕"
+        ]
+    },
+    {
+        "name": "Urbauer Labs",
+        "info": [
+            "Available 24/7 Until Hacking Ends!",
             "Please do not use the desktop computers!",
             "Food allowed 🍕"
         ]
     },
     {
-        "name": "More Pending Approval"
+        "name": "Cupples II L001",
+        "info": [
+            "Available after 3PM 10/19!",
+            "NO FOOD!!"
+        ]
+    },
+    {
+        "name": "Cupples II L007",
+        "info": [
+            "Available after 4PM 10/19!",
+            "NO FOOD!!"
+        ]
+    },
+    {
+        "name": "Cupples II L011",
+        "info": [
+            "Available after 3PM 10/19!",
+            "NO FOOD!!"
+        ]
     }
 ]
