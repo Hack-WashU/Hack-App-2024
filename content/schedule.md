@@ -30,7 +30,7 @@
 
 | Event Name             | Location     | Date and Time                              | Notes                                                                                                                                       |
 | ---------------------- | ------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Late Night Snack                             | Lopata Gallery   | Sunday ~1:00 AM                    | Hackers deserve a little treat |
+| Late Night Snack                             | Lopata Gallery   | Sunday ~1:20 AM                    | Hackers deserve a little treat |
 | Smash Bros Tournament                            | Lopata 101   | Sunday 2:00 AM                    |  |
 | Yap Session/Rock Paper Scissors Tournament                            | Lopata 101   | Saturday 4:00 AM                    | |
 | Trivia                         | Lopata 101   | Sunday 5:00 AM                    |  |
